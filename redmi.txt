@@ -12,4 +12,13 @@ I will palay badminton at 8.pm today.
 I need to reserve the badminton  court.
 I need to pick another player.
 
-git checkout branch name (branch change system)
+   (3- class)
+git add .
+git commit 
+git push
+git branch
+git merg
+git branch branchName (create to new branch)
+git checkout -b branchName (create to new branch)
+git checkout branchname (branch change system)
+git 

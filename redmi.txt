@@ -16,6 +16,7 @@ I need to pick another player.
 git add .
 git commit 
 git push
+git pull
 git branch
 git merg
 git branch branchName (create to new branch)

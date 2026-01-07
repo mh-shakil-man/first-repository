@@ -22,4 +22,4 @@ git merg
 git branch branchName (create to new branch)
 git checkout -b branchName (create to new branch)
 git checkout branchname (branch change system)
-git 
+git log (see the branch)
